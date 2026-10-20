@@ -1,0 +1,9 @@
+{
+  "name": "assembli",
+  "version": "1.0.0",
+  "description": "Find and install React + Tailwind + shadcn/ui components and landing pages from Assembli (https://assembli-rho.vercel.app).",
+  "author": {
+    "name": "Assembli"
+  },
+  "homepage": "https://assembli-rho.vercel.app/agents"
+}

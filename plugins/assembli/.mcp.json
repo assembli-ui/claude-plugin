@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "assembli": {
+      "type": "http",
+      "url": "https://assembli-rho.vercel.app/mcp"
+    }
+  }
+}
